@@ -20,4 +20,4 @@
 
 [这是一个链接](www.baidu.com)
 
-![这是一张图片](https://www.example.com/image.jpg)
+![这是一张图片](C:\Users\juhao\Desktop\文件\Dify平台)
