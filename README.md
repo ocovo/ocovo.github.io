@@ -18,5 +18,5 @@
 2. 这是另一个有序列表项
    1. 这是一个子列表项
 
-[这是一个链接](www.baidu.com)
+[中文介绍]((https://glxy.tjnu.edu.cn/info/1076/3132.htm))
  # 大标题
