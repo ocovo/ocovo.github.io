@@ -19,5 +19,5 @@
    1. 这是一个子列表项
 
 [中文介绍](https://glxy.tjnu.edu.cn/info/1076/3132.htm)
-![测试照片](https://github.com/ocovo/ocovo.github.io/blob/main/AI%E5%BA%94%E7%94%A8%E5%88%9B%E5%BB%BA%E7%AE%A1%E7%90%86.png)
+[测试照片](https://github.com/ocovo/ocovo.github.io/blob/main/AI%E5%BA%94%E7%94%A8%E5%88%9B%E5%BB%BA%E7%AE%A1%E7%90%86.png)
  # 大标题
